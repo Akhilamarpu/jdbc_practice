@@ -43,6 +43,4 @@ con.close();
 }
 }
 
-public class Retrive_product {
 
-}
